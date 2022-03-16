@@ -9,7 +9,7 @@
 - 🏢 I’m currently 4th grade student at Yıldız Technical University, Mathematical Engineering 👨‍🎓
 - 🎓 I'll be graduated at July 2022 📅
 - 🔬 Have experience on Android programming 📱, Computer Vision 🥽 and AI 🤖
-- 📩 Contact with me ihtiyaryasingurkan@gmail.com
+
 
 ### 🛠 &nbsp;Skills
 

@@ -5,9 +5,8 @@
  
  ### 👨‍💻 &nbsp;About Me
 
+- 👨‍💼 I'm currently Software Developer 👨‍💻 at Garanti BBVA Technology 🏦.
 - 💻 I have a passion for Mobile Programming.    
-- 🏢 I’m currently 4th grade student at Yıldız Technical University, Mathematical Engineering 👨‍🎓
-- 🎓 I'll be graduated at July 2022 📅
 - 🔬 Have experience on Android programming 📱, Computer Vision 🥽 and AI 🤖
 
 

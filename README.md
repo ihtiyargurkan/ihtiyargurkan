@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ihtiyargurkan/ihtiyargurkan/main/github_image.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/ihtiyargurkan/ihtiyargurkan/main/linkedin.png "Header")](https://some-url.dev/)
 
 
 # Hello, I’m @ihtiyargurkan <img src="https://raw.githubusercontent.com/ihtiyargurkan/ihtiyargurkan/main/wave.gif" width="30px">

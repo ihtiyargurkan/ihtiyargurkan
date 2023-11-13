@@ -5,9 +5,7 @@
  
  ### 👨‍💻 &nbsp;About Me
 
-- 👨‍💼 I'm currently Software Developer 👨‍💻 at Garanti BBVA Technology 🏦.
-- 💻 I have a passion for Mobile Programming.    
-- 🔬 Have experience on Android programming 📱, Computer Vision 🥽 and AI 🤖
+- 👨‍💼 I'm currently Software Developer 👨‍💻 at Carla 🏦.
 
 
 ### 🛠 &nbsp;Skills
